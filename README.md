@@ -29,13 +29,13 @@ DB_PASS=DATABASE USER PASSWORD
 ```
 
 e.g:
-
+```
 PORT=3000
 MONGODB_URI=mongodb://127.0.0.1:27017
 DB_NAME=admin
 DB_USER=admin
 DB_PASS=admin
-
+```
 
 Step 4: Start the API by
 
